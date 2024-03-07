@@ -1,1 +1,3 @@
 std::cout << "Name:\t Wahab Ahmad \n Roll no. 04 \n";
+int a=1, b=2;
+std::cout << "Sub:" << a-b << "\n";
