@@ -1,4 +1,5 @@
 std::cout << "Name:\t Wahab Ahmad \n Roll no. 04 \n";
 int a=1, b=2;
+std::cout << "Add:" << a+n << "\n";
 std::cout << "Dev" << a/b << "\n";
 std::cout << "Mul:" << a*b << "\n";
